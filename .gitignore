@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.venv/
+reports/live_*
+data/live_responses.csv
